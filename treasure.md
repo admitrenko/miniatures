@@ -13,4 +13,4 @@
 
 Собравшийся народ одобрительно хохотнул.
 
-v.1.0.1 &copy; Andrei Dmitrenko
+`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
