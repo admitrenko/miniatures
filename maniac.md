@@ -16,4 +16,4 @@
 А мне было прямо.
 
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
