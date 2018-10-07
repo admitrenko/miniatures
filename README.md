@@ -7,3 +7,4 @@
 - [Сокровище](https://github.com/finelit/miniatures/blob/master/treasure.md)
 - [Лай](https://github.com/finelit/miniatures/blob/master/bark.md)
 - [Маньяк](https://github.com/finelit/miniatures/blob/master/maniac.md)
+- [Свободные места](https://github.com/finelit/miniatures/blob/master/free_seats.md)
