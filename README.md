@@ -8,3 +8,4 @@
 - [Лай](https://github.com/finelit/miniatures/blob/master/bark.md)
 - [Маньяк](https://github.com/finelit/miniatures/blob/master/maniac.md)
 - [Свободные места](https://github.com/finelit/miniatures/blob/master/free_seats.md)
+- [Бей меня](https://github.com/finelit/miniatures/blob/master/beat_me.md)
