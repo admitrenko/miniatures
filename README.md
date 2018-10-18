@@ -10,3 +10,4 @@
 - [Свободные места](https://github.com/finelit/miniatures/blob/master/free_seats.md)
 - [Бей меня](https://github.com/finelit/miniatures/blob/master/beat_me.md)
 - [Мой друг](https://github.com/finelit/miniatures/blob/master/my_friend.md)
+- [О чём речь?](https://github.com/finelit/miniatures/blob/master/upset_reader.md)
