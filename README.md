@@ -12,4 +12,5 @@
 - [Мой друг](https://github.com/finelit/miniatures/blob/master/my_friend.md)
 - [О чём речь?](https://github.com/finelit/miniatures/blob/master/upset_reader.md)
 - [Прятки](https://github.com/finelit/miniatures/blob/master/hide_and_seek.md)
-- [Люди](https://github.com/finelit/miniatures/blob/master/people.md)
+- [Люди](https://github.com/finelit/miniatures/blob/master/people.md)  
+- [Что с тобой?](https://github.com/finelit/miniatures/blob/master/whatswrong.md)
