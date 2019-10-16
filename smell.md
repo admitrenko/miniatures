@@ -13,17 +13,17 @@
 
 ## Der Duft
 
-Ich bemerkte sie fast sofort, sobald ich im Bus eingestiegen war, &mdash; die Mädchen, die am Fenster stand.
-Sie war wie eine, mit der wir uns in dieser Stunde oft auf dieser Route kreuzten. Und wir hatten sogar Zeit, uns mit ihr anzufreunden. Nur trafen wir uns kürzlich immer seltener.
+Ich bemerkte sie fast sofort, sobald ich im Bus eingestiegen war, &mdash; das Mädchen, das am Fenster stand.
+Sie war wie eine, mit der unsere Wege kreuzten sich häufig. Und wir hatten sogar Zeit, uns anzufreunden. Nur trafen wir uns kürzlich immer seltener.
 
-Als ich jemanden zum Ausgang verpasste, wurde ich neben ihr, durch einen Mann. Ich fühlte den bekannten Duft.
-Es war derselbe Duft, an den ich mich noch genau erinnerte! Es war ihrer Duft... Er füllte meine Nase, und ich war absolut sicher und froh, dass wir uns endlich trafen!
+Als ich jemanden zum Ausgang vorbeigehen ließ, stand ich neben ihr, mit einem Mann zwischen uns. Ich fühlte den bekannten Duft.
+Es war derselbe Duft, an den ich mich noch genau erinnerte! Es war ihrer Duft... Er füllte meine Nase, und ich war absolut sicher und froh, dass wir uns mal wieder trafen!
 
-Nach einer Haltestelle stieg ein Mann aus, der zwischen uns stand.  
-Ich berührte ihre Ellbogen, das Mädchen drehte sich um... Und ich erkannte sie nicht.
+Nach einer Haltestelle stieg der Mann aus, der zwischen uns stand.  
+Ich berührte ihren Ellbogen, das Mädchen drehte sich um... Und ich erkannte sie nicht.
 
 &mdash; Entschuldigung...  
 Und der Duft verschwand.
 
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
