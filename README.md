@@ -15,3 +15,4 @@
 - [Люди](https://github.com/finelit/miniatures/blob/master/people.md)  
 - [Что с тобой?](https://github.com/finelit/miniatures/blob/master/whatswrong.md)
 - [Запах](https://github.com/finelit/miniatures/blob/master/smell.md)
+- [Ребята с нашего двора](https://github.com/finelit/miniatures/blob/master/guys.md)
