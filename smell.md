@@ -16,7 +16,7 @@
 Ich bemerkte sie fast sofort, sobald ich im Bus eingestiegen war, &mdash; das Mädchen, das am Fenster stand.
 Sie war wie eine, mit der unsere Wege kreuzten sich häufig. Und wir hatten sogar Zeit, uns anzufreunden. Nur trafen wir uns kürzlich immer seltener.
 
-Als ich jemanden zum Ausgang vorbeigehen ließ, stand ich neben ihr, mit einem Mann zwischen uns. Ich fühlte den bekannten Duft.
+Als ich jemanden zum Ausgang vorbeigehen ließ, stand ich neben ihr, nur durch einen Mann getrennt. Ich fühlte den bekannten Duft.
 Es war derselbe Duft, an den ich mich noch genau erinnerte! Es war ihrer Duft... Er füllte meine Nase, und ich war absolut sicher und froh, dass wir uns mal wieder trafen!
 
 Nach einer Haltestelle stieg der Mann aus, der zwischen uns stand.  
@@ -26,4 +26,4 @@ Ich berührte ihren Ellbogen, das Mädchen drehte sich um... Und ich erkannte si
 Und der Duft verschwand.
 
 
-`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
+`v.1.0.5` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
