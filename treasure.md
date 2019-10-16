@@ -13,4 +13,4 @@
 
 Собравшийся народ одобрительно хохотнул.
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

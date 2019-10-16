@@ -45,4 +45,4 @@ Es war im Hals ausgetrocknet. Das Herz war bereit, aus der Brust zu springen...
 &mdash; Niederknie! &mdash; unterbrach er mich mit dem Schrei.
 
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

@@ -8,4 +8,4 @@
 
 Оказалось, она скучала и поэтому тоже приехала раньше. И всё это время стояла за колонной, прячась от ветра, ждала меня. Очень замёрзла.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

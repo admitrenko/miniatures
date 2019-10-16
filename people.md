@@ -10,4 +10,4 @@
 
 На следующей остановке несколько человек столпилось у второй двери.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

@@ -10,4 +10,4 @@
 
 Только потом поняла, что он просто хотел привлечь моё внимание. Я ведь всё прослушала.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

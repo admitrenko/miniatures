@@ -26,4 +26,4 @@ Ich berührte ihren Ellbogen, das Mädchen drehte sich um... Und ich erkannte si
 Und der Duft verschwand.
 
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)

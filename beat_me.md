@@ -16,4 +16,4 @@
 &laquo;Бей меня, бей! Сколько хочешь, бей! Но проводи так рукой по моему лицу...&raquo;
 
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
