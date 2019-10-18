@@ -24,25 +24,24 @@
 ## Die Jungs von unserem Hof
 
 Am Winterabend ging ich nach Hause zurück.  
-Draußen war es sehr kalt. Ich entschied, den Weg ein bisschen abzuschneiden und durch die Höfe zu gehen. Die Gasse kannte ich gut, und mein Haus war schon nicht so weit. "Ein letzter Ruck &mdash; und endlich kann ich eine Tasse heißen Tee trinken und mich wärmen!"
+Draußen war es sehr kalt. Ich entschied, den Weg ein bisschen abzuschneiden und durch die Höfe zu gehen. Die Gasse kannte ich gut, und mein Haus war nicht mehr so weit. "Noch ein letzter Stück &mdash; und endlich kann ich eine Tasse heißen Tee trinken und mich wärmen!"
 
-Ich probierte sogar zu laufen, rutschte aber aus und fiel fast auf meinen Rücken, so wurde ich langsamer. Die Beleuchtung war schlecht, einige Laternen brannten gar nicht, deshalb schaute ich genau unter meine Füße.
+Ich probierte sogar zu laufen, rutschte aber aus und fiel fast auf meinen Rücken, so wurde ich langsamer. Die Beleuchtung war schlecht, einige Laternen brannten gar nicht, deshalb schaute ich genau auf meine Füße.
 
-Plötzlich bemerkte ich, wie die Gruppe von Menschen aus der Garage auskam. Zehn Meter vor mir entstanden vier dunkle Gestalten. Sie hielten auf den Weg und diskutierten etwas weiter.
+Plötzlich bemerkte ich, wie eine Gruppe von Menschen aus der Garage herauskam. Zehn Meter vor mir standen vier dunkle Gestalten. Sie hielten auf dem Weg und diskutierten etwas weiter.
 
-Die Empfindung war nicht so angenehm, aber ich versuchte, den Schritt nicht zu verzögern. Und als ich in die Dunkelheit schaute, konnte ich ihren Gesichter nicht einsehen...
+Das Gefühl war nicht angenehm, aber ich versuchte, den Schritt nicht zu verzögern. Und als ich in die Dunkelheit schaute, konnte ich ihre Gesichter nicht genau erkennen...
 
-Das Herz begann stärker zu schlagen. Wenn ich schon ganz nah war und dachte sie bitten, den Weg mich zu geben, bemerkte ich noch zwei von rechts. Sie standen zwischen den Garagen, jeder hatte einen Schläger in der Hand.
+Das Herz begann stärker zu schlagen. Als ich schon ganz nah war und sie bitten wollte, den Weg frei zu geben, bemerkte ich noch Zwei von rechts. Sie standen zwischen den Garagen, jeder hatte einen Schläger in der Hand.
 
-Ich drehte meinen Kopf wieder, und die vier stellte sich fast direkt vor mir heraus.
+Ich drehte meinen Kopf wieder zurück, und die Vier stellten sich fast direkt vor mir.
 
-Ich stoppte. Drehte mich um... Von hinten gaben mich schon die dunkle Silhouetten um.
+Ich stoppte. Drehte mich kurz um... Aus dem Augenwinkel sah ich, wie die dunkle Silhouetten mich von hinten umstellten.
 
-Es war im Hals ausgetrocknet. Das Herz war bereit, aus der Brust zu springen...
+Mein Hals war ausgetrocknet. Das Herz war bereit, aus der Brust zu springen...
 
 &mdash; Auf die Knie, &mdash; befohl mir einer von ihnen.  
 &mdash; Was zum Teufel... &mdash; begann ich flüsternd.  
-&mdash; Niederknie! &mdash; unterbrach er mich mit dem Schrei.
+&mdash; Niederknien! &mdash; unterbrach er mich mit einem Schrei.
 
-
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
