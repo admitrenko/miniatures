@@ -19,18 +19,18 @@
 
 Es gibt ein wunderschönes Mädchen in meinem Leben.  
 
-Als heute alle im Flur vor dem Unterrichtsraum standen und auf den Lehrer warteten, sprach sie mit seiner Freundin. Ich ging zu ihnen.  
+Als heute alle im Flur vor dem Unterrichtsraum standen und auf den Lehrer warteten, sprach sie mit ihrer Freundin. Ich ging zu ihnen.  
 
-Sie stand mit dem Rücken zu mir, und sprach leidenschaftlich über etwas, und winkte mit den Armen. Und nach einer weiteren Handbewegung war (erwies?) ihre Hand züfallig auf meiner Wange.  
+Sie stand mit dem Rücken zu mir, und sprach leidenschaftlich über etwas, und gestikulierte mit den Armen. Und nach einer weiteren Handbewegung landete ihre Hand zufällig auf meiner Wange.  
 
-Sie drehte sich um, schaute auf seine Hand und streichelte leicht (sanft?) mein Gesicht.
+Sie drehte sich um, schaute auf ihre Hand und streichelte leicht mein Gesicht.
 
-Und dann, verwirrt, gab sie mir plötzlich eine Ohrfeige! Und dann noch einmal!
+Und dann, verwirrt, gab sie mir plötzlich eine Ohrfeige! Und dann noch eine!
 
-Ihre Freundin lachte. Ich auch. Und als wäre nichts passiert.  
+Ihre Freundin lachte. Ich auch. Als wäre nichts passiert.  
 
-Nur mein Herz begann heufiger schlagen, und im Kopf erklangen die Wörter:  
+Nur mein Herz begann häufiger schlagen, und im Kopf erklangen die Worte:  
 "Schlag mich, schlag! Schlag so viel du willst! Aber streichele wieder so mein Gesicht..."
 
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
