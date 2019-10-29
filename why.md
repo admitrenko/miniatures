@@ -30,10 +30,10 @@ Nach einem Paar Wochen rief sie mich an und sagte, dass ein zweites Ticket für 
 
 Und auf dem Konzert traf ich die Bekannten von meiner Freundin. Grüßte sie aus der Ferne. Es war unbequem (da ich nicht allein war), zu ihnen zu gehen.
 
-Der Abend war insgesamt ein voller Erfolg.  Wir tranken einen Cocktail, tanzten, sprangen in der Menge, schrien die Lieder. Es machte Spaß! Und ich umarmte sie auch einmal zu einem lyrischen Lied. Vielleicht, unnötig.
+Der Abend war insgesamt ein voller Erfolg.  Wir tranken einen Cocktail, tanzten, sprangen in der Menge, schrien die Lieder. Es machte Spaß! Und ich umarmte sie auch einmal zu einem lyrischen Lied. Vielleicht, unnötigerweise.
 
 Am nächsten Tag schickte ich meiner Freundin einen Nachricht und erzählte ihr vom Konzert. Sie antwortete mit einem Nachricht von ihrer Freundin:
 
 "Er war nicht allein, und sie flirteten die ganze Zeit... Natürlich sahen wir weg, aber es war schwer, nicht zu bemerken, dass er unserer Gesellschaft dieses leichte Mädchen vorzog. Außerdem wusste ich, dass du weg bist... Darum war es noch unangenehmer, sie zu sehen".
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
