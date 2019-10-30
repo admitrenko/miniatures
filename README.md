@@ -17,3 +17,4 @@
 - [Запах](https://github.com/finelit/miniatures/blob/master/smell.md)
 - [Ребята с нашего двора](https://github.com/finelit/miniatures/blob/master/guys.md)
 - [Зачем?](https://github.com/finelit/miniatures/blob/master/why.md)
+- [Мой друг](https://github.com/finelit/miniatures/blob/master/friend.md)
