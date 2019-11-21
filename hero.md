@@ -8,10 +8,10 @@
 
 ## Der Held
 
-Ein älter Mann ließ dem Mädchen von fünfzig Jahren den Platz im Bus. Nebenan stand ich und hörte deswegen, wie überraschend sie irgenwem davon am Telefon erzählte.
+Ein älter Mann ließ dem Mädchen von fünfzig Jahren den Platz im Bus. Nebenan stand ich und hörte deswegen, wie überraschend sie irgendwem davon am Telefon erzählte.
 
 &raquo;Weißt du&laquo;, sprach sie. &raquo;Er gab mir Sitzplatz. Ich sage ihm: &raquo;Nein, bitte, setzen Sie sich&laquo;. Und er: &raquo;Ich bin ein Mann, ich kann immer stehen&laquo;. Hier würden alle Männer so sein! Dieser Mann ist mein Held!&laquo;
 
 Der Bus stoppte bei der Untergrundbahnstation. Als ich schon in den Zugwagen einstieg, bemerckte ich den Held. Fünf Stationen saß er und las die Werbenanzeigen gegenüber. Dann ging er weg. Zwei Meter weit stand die ganzen Zeit eine schwangere Frau.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog/)
