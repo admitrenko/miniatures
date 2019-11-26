@@ -19,3 +19,4 @@
 - [Зачем?](https://github.com/finelit/miniatures/blob/master/why.md)
 - [Мой друг](https://github.com/finelit/miniatures/blob/master/friend.md)
 - [Герой](https://github.com/finelit/miniatures/blob/master/hero.md)
+- [Старик](https://github.com/finelit/miniatures/blob/master/old_man.md)
